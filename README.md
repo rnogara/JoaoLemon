@@ -1,4 +1,4 @@
 # John Lemon - Portfolio layout sample
 ### Project made in a course and used as an example of a portfolio
 
-[Web Page](https://johnlemon.netlify.app/){target="_blank"}
+<a href="https://johnlemon.netlify.app/" target="_blank">Web Page</a>
